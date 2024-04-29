@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulBasit911
-I am a business degree holder and I have one year of an experience in HR industry. I am in the process of shifting my career in the IT field and want to work as an BI analyst or Business Analyst.
-I recently learned SQL, Python, Power BI, and created cool Dashboards using MS Excel.
-In the long run, I want to be an independent BI consultant helping businesses make data-driven decisions.
+I am a business degree holder and I have over one year of experience as a data analyst.
+I possess knowledge in data science related tools like SQL, Python, Power BI, and MS Excel.
+In the long run, I want to be an independent data analyst consultant helping businesses make data-driven decisions.
 
 <!---
 abdulBasit911/abdulBasit911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

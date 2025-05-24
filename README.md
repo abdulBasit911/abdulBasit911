@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @abdulBasit911
-A self-taught AI/ML practitioner building intelligent systems for real-world challenges.
+- 👋 Hi, I’m @abdulBasit911.
 
 <!---
 abdulBasit911/abdulBasit911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
